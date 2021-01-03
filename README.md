@@ -1,7 +1,4 @@
 <img align="left" alt="GIF" src="https://github.com/AmineAgrane/AmineAgrane/blob/main/amine_coding.gif" width="494" height="335" />  
-
-
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:amine.agrane1@gmail.com)](mailto:amine.agrane1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amine-agrane/)
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/AmineAgrane)
@@ -16,5 +13,6 @@ I am pursuing a master's degree in Machine Learning & Artificial Intelligence, a
 
 <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api?username=AmineAgrane&show_icons=true&theme=onedark&show_icons=true&count_private=true">
+  
   <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineAgrane&layout=compact&hide_border=true&hide=jupyter%20notebook&langs_count=9&theme=onedark">
 </p>
