@@ -11,9 +11,11 @@ I am pursuing a master's degree in Machine Learning & Artificial Intelligence, a
 - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume]()
 
-
+\
+\
+\
 # My githubs stats :
-
+\
 <div class="row">
   <div class="column">
     <img align="left"  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineAgrane&layout=compact&hide_border=true&hide=jupyter%20notebook&langs_count=9&theme=onedark">
