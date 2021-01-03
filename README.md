@@ -8,8 +8,6 @@ I am pursuing a master's degree in Machine Learning & Artificial Intelligence, a
 - 💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning **Apache Spark and PyTorch**; 
 - 💬 Ask me about anything, I am happy to help;
-- 📝[Resume]()
-
 
 
 <img align="right" src ="https://github-readme-stats.vercel.app/api?username=AmineAgrane&show_icons=true&theme=onedark&show_icons=true&count_private=true">
