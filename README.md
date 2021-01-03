@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/AmineAgrane/AmineAgrane/blob/main/amine_coding.gif" width="480" height="335" />  
+<img align="right" alt="GIF" src="https://github.com/AmineAgrane/AmineAgrane/blob/main/amine_coding.gif" width="470" height="335" />  
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:amine.agrane1@gmail.com)](mailto:amine.agrane1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amine-agrane/)
@@ -13,6 +13,6 @@ I am pursuing a master's degree in Machine Learning & Artificial Intelligence, a
 
 
 <p float="left">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api?username=AmineAgrane&show_icons=true&theme=onedark&show_icons=true&count_private=true" width="480">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineAgrane&layout=compact&hide_border=true&hide=jupyter%20notebook&langs_count=9&theme=onedark">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api?username=AmineAgrane&show_icons=true&theme=onedark&show_icons=true&count_private=true" width="470">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineAgrane&layout=compact&hide_border=true&hide=jupyter%20notebook&langs_count=9&theme=onedark" width="300">
 </p>
