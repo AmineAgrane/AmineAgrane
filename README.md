@@ -8,7 +8,11 @@ I am pursuing a master's degree in Machine Learning & Artificial Intelligence, a
 - 💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning **Apache Spark and PyTorch**; 
 - 💬 Ask me about anything, I am happy to help;
+- 📝[Resume]()
 
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 <img align="right" src ="https://github-readme-stats.vercel.app/api?username=AmineAgrane&show_icons=true&theme=onedark&show_icons=true&count_private=true">
 <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineAgrane&layout=compact&hide_border=true&hide=jupyter%20notebook&langs_count=9&theme=onedark">
