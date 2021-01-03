@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/AmineAgrane/AmineAgrane/blob/main/amine_coding.gif" width="494" height="335" />  
+<img align="left" alt="GIF" src="https://github.com/AmineAgrane/AmineAgrane/blob/main/amine_coding.gif" width="494" height="335" />  
 
 
 
@@ -15,6 +15,6 @@ I am pursuing a master's degree in Machine Learning & Artificial Intelligence, a
 - 📝[Resume]()
 
 <p align="center">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api?username=AmineAgrane&show_icons=true&theme=onedark&show_icons=true&count_private=true">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineAgrane&layout=compact&hide_border=true&hide=jupyter%20notebook&langs_count=9&theme=onedark">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api?username=AmineAgrane&show_icons=true&theme=onedark&show_icons=true&count_private=true">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineAgrane&layout=compact&hide_border=true&hide=jupyter%20notebook&langs_count=9&theme=onedark">
 </p>
