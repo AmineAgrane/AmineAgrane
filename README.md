@@ -12,6 +12,7 @@ I am pursuing a master's degree in Machine Learning & Artificial Intelligence, a
 - 📝[Resume]()
 
 
+# My githubs stats :
 
 <div class="row">
   <div class="column">
