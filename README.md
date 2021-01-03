@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/AmineAgrane)
 
 
-I am pursuing a master's degree in Machine Learning & Artificial Intelligence, and I'm a big passionate about Data Science 📊, Pythonic programming 🐍, and open source projects :octocat:
+I am pursuing a master's degree in Machine Learning & Artificial Intelligence, and I'm very passionate about Data Science 📊, Pythonic programming 🐍, and open source projects :octocat:
 - 💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning **Apache Spark and PyTorch**; 
 - 💬 Ask me about anything, I am happy to help;
