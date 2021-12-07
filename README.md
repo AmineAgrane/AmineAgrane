@@ -5,7 +5,9 @@
 
 
 
-I am pursuing a master's degree in Machine Learning & Artificial Intelligence, and I'm very passionate about Data Science 📊, Pythonic programming 🐍, and open source projects :octocat:
+I got a master degree in Machine Learning & Artificial Intelligence and I'm actually working as a Data Scientist in Paris.
+I am very passionate about Data Science 📊, Pythonic programming 🐍, and open source projects :octocat:
+
 - 💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning **Scrapy and Microsoft Azure**; 
 - 💬 Ask me about anything, I am happy to help;
