@@ -2,14 +2,14 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:amine.agrane1@gmail.com)](mailto:amine.agrane1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amine-agrane/)
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/AmineAgrane)
+
 
 
 I am pursuing a master's degree in Machine Learning & Artificial Intelligence, and I'm very passionate about Data Science 📊, Pythonic programming 🐍, and open source projects :octocat:
 - 💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning **Apache Spark and PyTorch**; 
+- 🌱 I’m currently learning **Scrapy and Microsoft Azure**; 
 - 💬 Ask me about anything, I am happy to help;
-- 📝[Resume]()
+
 
 
 <p float="left">
