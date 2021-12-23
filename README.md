@@ -16,5 +16,5 @@ I am very passionate about Data Science 📊, Pythonic programming 🐍, and ope
 
 <p float="left">
   <img align="right" src ="https://github-readme-stats.vercel.app/api?username=AmineAgrane&show_icons=true&theme=onedark&show_icons=true&count_private=true" width="470" height="200">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineAgrane&layout=compact&hide_border=true&hide=,html&langs_count=9&theme=onedark" width="320" height="200">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineAgrane&layout=compact&hide_border=true&hide=jupyter%20notebook,html&langs_count=9&theme=onedark" width="320" height="200">
 </p>
